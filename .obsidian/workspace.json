@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d026a8b23a5b59d0",
+        "id": "da34ef0a9c35a8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8250d52fb268d2b5",
+            "id": "99d2ea936bf4cef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Templates/default.md",
+                "file": "+/ReadItLater Inbox/What is Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default"
-            }
-          },
-          {
-            "id": "4bde0698983b02ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataView.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DataView"
+              "title": "What is Data Science"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,15 +190,17 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "4bde0698983b02ad",
+  "active": "99d2ea936bf4cef2",
   "lastOpenFiles": [
+    "+/ReadItLater Inbox/What is Data Science.md",
     "+/Templates/default.md",
-    "properties.md",
+    "about DataView.md",
+    "about properties.md",
     "+/ReadItLater Inbox/Mobile App Development Course with React Native, Supabase, Next.js.md",
-    "DataView.md",
     "home.md",
     "Welcome.md",
     "+/ReadItLater Inbox",

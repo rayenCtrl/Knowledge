@@ -1,6 +1,4 @@
 
----
-
 ## 🔤 1. Data Types in Dataview
 
 | Type        | Example                 | Notes                                   |
@@ -12,7 +10,6 @@
 | **Link**    | `[[Note Name]]`         | Internal links, clickable               |
 | **List**    | `[item1, item2, item3]` | Multiple values in YAML or inline       |
 | **Object**  | `{key: value}`          | Key-value pairs, often from frontmatter |
-
 
 
 ## 🔍 2. Filtering Data
@@ -122,8 +119,6 @@ flatten object(entries(this), (key, value))
 
 ---
 
-
-
 ## 🔗 Resources
 
 - [Dataview Docs](https://blacksmithgu.github.io/obsidian-dataview/)
@@ -131,6 +126,5 @@ flatten object(entries(this), (key, value))
 - [Dataview JS Docs](https://blacksmithgu.github.io/obsidian-dataview/api/)
     
 - [Beginner’s Guide to Dataview](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
-    
 
 ---
