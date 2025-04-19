@@ -1,0 +1,87 @@
+
+
+# [Mobile App Development Course with React Native, Supabase, Next.js](https://youtu.be/2esQdKzRUCw)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2esQdKzRUCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [0:00:00](https://www.youtube.com/watch?v=2esQdKzRUCw&t=0) Intro
+- [0:07:06](https://www.youtube.com/watch?v=2esQdKzRUCw&t=426) Create a new React Native Expo Application
+- [0:08:47](https://www.youtube.com/watch?v=2esQdKzRUCw&t=527) Expo Router tutorial
+- [0:12:32](https://www.youtube.com/watch?v=2esQdKzRUCw&t=752) Expo Router File-based routing (Create Pages)
+- [0:17:56](https://www.youtube.com/watch?v=2esQdKzRUCw&t=1076) Master Layouts in Expo Router
+- [0:35:50](https://www.youtube.com/watch?v=2esQdKzRUCw&t=2150) Build Home Page
+- [0:58:13](https://www.youtube.com/watch?v=2esQdKzRUCw&t=3493) Dynamic Pages in Expo (Category Page)
+- [1:05:11](https://www.youtube.com/watch?v=2esQdKzRUCw&t=3911) Zustand in React Native (Cart State)
+- [1:19:15](https://www.youtube.com/watch?v=2esQdKzRUCw&t=4755) Product Details Page Build
+- [1:32:48](https://www.youtube.com/watch?v=2esQdKzRUCw&t=5568) Cart Page Build
+- [1:44:20](https://www.youtube.com/watch?v=2esQdKzRUCw&t=6260) Orders Page Build
+- [1:51:58](https://www.youtube.com/watch?v=2esQdKzRUCw&t=6718) Order Details Page Build
+- [1:57:52](https://www.youtube.com/watch?v=2esQdKzRUCw&t=7072) Auth Page Build
+- [2:09:34](https://www.youtube.com/watch?v=2esQdKzRUCw&t=7774) Supabase Intro
+- [2:14:21](https://www.youtube.com/watch?v=2esQdKzRUCw&t=8061) Supabase Auth Provider
+- [2:32:06](https://www.youtube.com/watch?v=2esQdKzRUCw&t=9126) Supabase Login in React Native
+- [2:39:35](https://www.youtube.com/watch?v=2esQdKzRUCw&t=9575) Supabase SQL, Triggers, Functions
+- [2:56:30](https://www.youtube.com/watch?v=2esQdKzRUCw&t=10590) Row Level Security Supabase
+- [3:01:30](https://www.youtube.com/watch?v=2esQdKzRUCw&t=10890) Bootstrap NextJS Application with Typescript
+- [3:10:06](https://www.youtube.com/watch?v=2esQdKzRUCw&t=11406) Master Routing in NextJS
+- [3:17:46](https://www.youtube.com/watch?v=2esQdKzRUCw&t=11866) Supabase, Server Side Rending and Supabase Types
+- [3:31:25](https://www.youtube.com/watch?v=2esQdKzRUCw&t=12685) Supabase Email and Password Authentication
+- [3:44:02](https://www.youtube.com/watch?v=2esQdKzRUCw&t=13442) Authorization and Routes Protection in NextJS
+- [3:51:01](https://www.youtube.com/watch?v=2esQdKzRUCw&t=13861) Role Level Security / Authorization
+- [3:57:48](https://www.youtube.com/watch?v=2esQdKzRUCw&t=14268) Layout in NextJS
+- [4:09:45](https://www.youtube.com/watch?v=2esQdKzRUCw&t=14985) Signout And Theming
+- [4:13:25](https://www.youtube.com/watch?v=2esQdKzRUCw&t=15205) Category Table Supabase
+- [4:21:51](https://www.youtube.com/watch?v=2esQdKzRUCw&t=15711) Fetch Category Server Action
+- [4:28:03](https://www.youtube.com/watch?v=2esQdKzRUCw&t=16083) Product Schema and Row Level Security
+- [4:36:02](https://www.youtube.com/watch?v=2esQdKzRUCw&t=16562) Category Page Setup
+- [4:48:05](https://www.youtube.com/watch?v=2esQdKzRUCw&t=17285) Code walkthrough
+- [4:55:41](https://www.youtube.com/watch?v=2esQdKzRUCw&t=17741) Category Page UI Implementation
+- [5:04:02](https://www.youtube.com/watch?v=2esQdKzRUCw&t=18242) Category Page UI Completion
+- [5:58:16](https://www.youtube.com/watch?v=2esQdKzRUCw&t=21496) Create Category And Supabase Storage
+- [5:24:14](https://www.youtube.com/watch?v=2esQdKzRUCw&t=19454) Update And Delete Category
+- [5:37:51](https://www.youtube.com/watch?v=2esQdKzRUCw&t=20271) Product Page Setup
+- [5:44:30](https://www.youtube.com/watch?v=2esQdKzRUCw&t=20670) Code walkthrough
+- [5:53:38](https://www.youtube.com/watch?v=2esQdKzRUCw&t=21218) Create product Schema
+- [5:59:25](https://www.youtube.com/watch?v=2esQdKzRUCw&t=21565) Product CRUD actions
+- [6:09:58](https://www.youtube.com/watch?v=2esQdKzRUCw&t=22198) Product Page Utility Setup
+- [6:24:29](https://www.youtube.com/watch?v=2esQdKzRUCw&t=23069) Product Page Layout
+- [6:39:55](https://www.youtube.com/watch?v=2esQdKzRUCw&t=23995) Project Walkthrough So Far
+- [6:42:12](https://www.youtube.com/watch?v=2esQdKzRUCw&t=24132) React Query
+- [6:45:40](https://www.youtube.com/watch?v=2esQdKzRUCw&t=24340) Fetching Products and Categories
+- [6:51:06](https://www.youtube.com/watch?v=2esQdKzRUCw&t=24666) Supabase types React Native
+- [6:56:57](https://www.youtube.com/watch?v=2esQdKzRUCw&t=25017) Displaying Categories
+- [6:59:01](https://www.youtube.com/watch?v=2esQdKzRUCw&t=25141) Display Product Details Page Data
+- [7:04:05](https://www.youtube.com/watch?v=2esQdKzRUCw&t=25445) Category Details Page
+- [7:09:31](https://www.youtube.com/watch?v=2esQdKzRUCw&t=25771) Cart Page Fixes
+- [7:14:28](https://www.youtube.com/watch?v=2esQdKzRUCw&t=26068) Orders Supabase
+- [7:20:33](https://www.youtube.com/watch?v=2esQdKzRUCw&t=26433) Display Orders
+- [7:29:01](https://www.youtube.com/watch?v=2esQdKzRUCw&t=26941) Create Order Function
+- [7:33:36](https://www.youtube.com/watch?v=2esQdKzRUCw&t=27216) Create Order Item function
+- [7:40:11](https://www.youtube.com/watch?v=2esQdKzRUCw&t=27611) Create Order Item
+- [7:52:46](https://www.youtube.com/watch?v=2esQdKzRUCw&t=28366) Order Details Page
+- [8:03:59](https://www.youtube.com/watch?v=2esQdKzRUCw&t=29039) Orders Page
+- [8:05:55](https://www.youtube.com/watch?v=2esQdKzRUCw&t=29155) Fetching Orders With Products
+- [8:11:00](https://www.youtube.com/watch?v=2esQdKzRUCw&t=29460) Fetching Orders Page Component
+- [8:15:13](https://www.youtube.com/watch?v=2esQdKzRUCw&t=29713) Orders Management Table
+- [8:21:16](https://www.youtube.com/watch?v=2esQdKzRUCw&t=30076) Order Action View Order Products
+- [8:31:06](https://www.youtube.com/watch?v=2esQdKzRUCw&t=30666) Order Status Select Dropdown
+- [8:34:19](https://www.youtube.com/watch?v=2esQdKzRUCw&t=30859) Order Status Change Server Action
+- [8:37:47](https://www.youtube.com/watch?v=2esQdKzRUCw&t=31067) Order Update Real-Time Subscription
+- [8:45:16](https://www.youtube.com/watch?v=2esQdKzRUCw&t=31516) Supabase Local Setup
+- [8:58:56](https://www.youtube.com/watch?v=2esQdKzRUCw&t=32336) Using Environment Variables in Expo
+- [9:03:26](https://www.youtube.com/watch?v=2esQdKzRUCw&t=32606) Stripe Integration and Edge Functions
+- [9:20:13](https://www.youtube.com/watch?v=2esQdKzRUCw&t=33613) Stripe Checkout
+- [9:34:53](https://www.youtube.com/watch?v=2esQdKzRUCw&t=34493) Supabase Migrations and User Schema Update
+- [9:41:37](https://www.youtube.com/watch?v=2esQdKzRUCw&t=34897) Create Stripe Customer
+- [10:06:41](https://www.youtube.com/watch?v=2esQdKzRUCw&t=36401) EAS Setup
+- [10:09:44](https://www.youtube.com/watch?v=2esQdKzRUCw&t=36584) Notification Setup
+- [10:18:38](https://www.youtube.com/watch?v=2esQdKzRUCw&t=37118) Testing Push Notification on A Real Device
+- [10:09:44](https://www.youtube.com/watch?v=2esQdKzRUCw&t=36584) Realtime Admin Order Status Notification
+- [10:18:38](https://www.youtube.com/watch?v=2esQdKzRUCw&t=37118) Orders Chart
+- [10:23:26](https://www.youtube.com/watch?v=2esQdKzRUCw&t=37406) Product Category Chart
+- [10:39:58](https://www.youtube.com/watch?v=2esQdKzRUCw&t=38398) Latest Users Chart
+- [10:50:32](https://www.youtube.com/watch?v=2esQdKzRUCw&t=39032) Landing Page Setup
+- [10:59:08](https://www.youtube.com/watch?v=2esQdKzRUCw&t=39548) Hero Section
+- [11:05:35](https://www.youtube.com/watch?v=2esQdKzRUCw&t=39935) Home Page Completion
+- [11:11:28](https://www.youtube.com/watch?v=2esQdKzRUCw&t=40288) Deployment To Vercel
+- [11:22:02](https://www.youtube.com/watch?v=2esQdKzRUCw&t=40922) Deployment Fixes

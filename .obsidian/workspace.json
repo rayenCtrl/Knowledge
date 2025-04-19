@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Templates/default.md",
+                "file": "+/ReadItLater Inbox/Mobile App Development Course with React Native, Supabase, Next.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default"
+              "title": "Mobile App Development Course with React Native, Supabase, Next.js"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Welcome.md",
     "+/Templates/default.md",
+    "+/ReadItLater Inbox/Mobile App Development Course with React Native, Supabase, Next.js.md",
+    "Welcome.md",
     "+/ReadItLater Inbox",
     "+/Templates",
     "Data View.md",
