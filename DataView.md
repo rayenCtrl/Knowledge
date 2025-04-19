@@ -96,33 +96,6 @@ where status != "Archived"
 sort rating desc
 ```
 
-### 🛠 Skill Tracker
-
-```
-table skill, progress, notes
-from "Skills"
-where progress < 100
-```
-
----
-
-## ✨ 5. Pro Tips
-
-- **Inline fields** work too: `Status:: In Progress`
-    
-- **Aliases**: rename columns in the result with `as`
-    
-- **Date math**: `where due <= date(today)`
-    
-- **Group by**: group rows by a field
-    
-
-```
-table file.name, priority
-from "Tasks"
-group by status
-```
-
 ---
 
 ## 🧪 Experimental: Show All Fields Dynamically
@@ -133,7 +106,23 @@ from "docs"
 flatten object(entries(this), (key, value))
 ```
 
+### 📁 `file` Object Date Properties in Dataview
+
+| Property       | Description                                             | Example Output             |
+| -------------- | ------------------------------------------------------- | -------------------------- |
+| `file.ctime`   | **Creation date** of the file (from the OS).            | `2024-06-20T14:32:01.000Z` |
+| `file.mtime`   | **Last modified date** of the file (from the OS).       | `2025-04-19T09:15:45.000Z` |
+| `file.name`    | File name (no extension).                               | `MyNote`                   |
+| `file.path`    | Full relative path from the vault root.                 | `Journal/2025-04-20.md`    |
+| `file.folder`  | Folder containing the file.                             | `Journal`                  |
+| `file.day`     | Parsed date from file name (if in `YYYY-MM-DD` format). | `2025-04-20`               |
+| `file.link`    | A link to the file.                                     | `[[MyNote]]`               |
+| `file.inlinks` | Files that link **to** this file.                       | List of links              |
+|`file.outlinks`|Files that this file **links to**.|List of links|
+
 ---
+
+
 
 ## 🔗 Resources
 
