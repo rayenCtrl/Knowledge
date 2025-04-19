@@ -7,7 +7,7 @@
   "openNewNoteInNewTab": false,
   "youtubeContentTypeSlug": "youtube",
   "youtubeNoteTitle": "{{ title }}",
-  "youtubeNote": "\n\n# [{{ videoTitle }}]({{ videoURL }})\n\n{{ videoPlayer }}\n{{ videoChapters",
+  "youtubeNote": "\n\n# [{{ videoTitle }}]({{ videoURL }})\n\n{{ videoPlayer }}\n\n{{ videoChapters }}\n",
   "youtubeEmbedWidth": "560",
   "youtubeEmbedHeight": "315",
   "youtubeUsePrivacyEnhancedEmbed": true,
