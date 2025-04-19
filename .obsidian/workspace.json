@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data View.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Data View"
             }
           }
         ]
@@ -180,6 +184,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data View.md",
     "Welcome.md",
     "+"
   ]
