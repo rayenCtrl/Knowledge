@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "96770202ba66c650",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "5abb999e3d6e1797",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1e339274bad37421",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -182,9 +178,9 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "1e339274bad37421",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "+",
-    "Welcome.md"
+    "Welcome.md",
+    "+"
   ]
 }
