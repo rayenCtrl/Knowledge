@@ -1,6 +1,6 @@
 {
   "inboxDir": "+/ReadItLater Inbox",
-  "assetsDir": "ReadItLater Inbox/assets",
+  "assetsDir": "+/ReadItLater Inbox/assets",
   "openNewNote": false,
   "batchProcess": false,
   "batchProcessDelimiter": "newLine",
@@ -38,7 +38,7 @@
   "mastodonNote": "[[ReadItLater]] [[Toot]]\n\n# [{{ tootAuthorName }}]({{ tootURL }})\n\n> {{ tootContent }}",
   "downloadImages": true,
   "downloadImagesInArticleDir": false,
-  "dateTitleFmt": "YYYY-MM-DD HH-mm-ss",
+  "dateTitleFmt": "YYYY-MM-DD HH-mm",
   "dateContentFmt": "YYYY-MM-DD",
   "downloadMastodonMediaAttachments": true,
   "downloadMastodonMediaAttachmentsInDir": false,
