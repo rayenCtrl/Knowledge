@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "Data Science Job Interview – Full Mock Interview"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
     "home.md",
+    "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
+    "Untitled.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "+/Templates/default.md",
     "about DataView.md",
