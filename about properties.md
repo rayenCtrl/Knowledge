@@ -1,11 +1,11 @@
 ## 🔧 **Minimal Status Lifecycle**
 
-|Status|Meaning|
-|---|---|
-|`not-started`|You haven’t begun working on it yet. Placeholder.|
-|`in-progress`|You’re actively working on it (writing, researching, coding).|
-|`reviewing`|You’re polishing or checking the content.|
-|`done`|Finished — complete and useful.|
+| Status        | Meaning                                                       |
+| ------------- | ------------------------------------------------------------- |
+| `not-started` | You haven’t begun working on it yet. Placeholder.             |
+| `in-progress` | You’re actively working on it (writing, researching, coding). |
+| `reviewing`   | You’re polishing or checking the content.                     |
+| `done`        | Finished — complete and useful.                               |
 
 ## 🧩 Bonus: Other Properties You Might Like
 
