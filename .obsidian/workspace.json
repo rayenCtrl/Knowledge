@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "+/Books/Practical Statistics for Data Scientists - Peter Bruce Andrew Bruce Peter Gedeck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "Practical Statistics for Data Scientists - Peter Bruce Andrew Bruce Peter Gedeck"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -183,18 +182,23 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "+/Templates/book.md",
+    "+/Books/Practical Statistics for Data Scientists - Peter Bruce Andrew Bruce Peter Gedeck.md",
+    "+/Books",
+    "+/Templates/default.md",
     "home.md",
     "about DataView.md",
     "about properties.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
     "Untitled.md",
-    "+/Templates/default.md",
     "+/ReadItLater Inbox/Mobile App Development Course with React Native, Supabase, Next.js.md",
     "Welcome.md",
     "+/ReadItLater Inbox",

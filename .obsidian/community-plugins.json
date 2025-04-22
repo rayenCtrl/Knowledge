@@ -7,5 +7,7 @@
   "homepage",
   "obsidian-read-it-later",
   "obsidian-custom-frames",
-  "media-extended"
+  "media-extended",
+  "obsidian-book-search-plugin",
+  "callout-manager"
 ]
