@@ -1,9 +1,9 @@
 ---
 tags: 
 related: 
-author: "[Peter Bruce, Andrew Bruce, Peter Gedeck]"
-category: "[Computers]"
-cover: "http://books.google.com/books/content?id=k2XcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+author: Peter Bruce, Andrew Bruce, Peter Gedeck
+category: Computers
+cover: http://books.google.com/books/content?id=k2XcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 status: not-started
 type: book
 ---

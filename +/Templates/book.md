@@ -1,8 +1,8 @@
 ---
 tags: 
 related: 
-author: "[{{author}}]"
-category: "[{{category}}]"
+author: "{{author}}"
+category: "{{category}}"
 cover: "{{coverUrl}}"
 status: not-started
 type: book
