@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "524fc4cf6e78de21",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "61d6971bdc1885f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,13 +186,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "61d6971bdc1885f5",
   "lastOpenFiles": [
-    "+/Books/Applied Machine Learning for Data Science Practitioners - Vidya Subramanian.md",
+    "home.md",
     "bookshelf.md",
+    "+/Books/Applied Machine Learning for Data Science Practitioners - Vidya Subramanian.md",
     "+/Books/Machine Learning for Time Series Forecasting with Python - Francesca Lazzeri.md",
     "+/Books/Artificial Intelligence in Finance - Yves Hilpisch.md",
-    "home.md",
     "+/Books/Machine Learning for Asset Managers - Marcos M López de Prado.md",
     "+/Books/Machine Learning in Finance - Matthew F Dixon Igor Halperin Paul Bilokon.md",
     "+/Books/Advances in Financial Machine Learning - Marcos Lopez de Prado.md",
