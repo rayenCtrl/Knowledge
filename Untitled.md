@@ -1,0 +1,1 @@
+https://www.bi.no/en/programmes-and-individual-courses/master-programmes/business-analytics/#tuition-fee 
