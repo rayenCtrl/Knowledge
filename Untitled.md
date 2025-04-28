@@ -1,1 +1,1 @@
-https://www.bi.no/en/programmes-and-individual-courses/master-programmes/business-analytics/#tuition-fee 
+https://www.bi.no/en/programmes-and-individual-courses/master-programmes/business-analytics/#tuition-fee  ( deadline March 1 International applicants to bachelor programmes ) 
