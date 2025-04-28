@@ -7,7 +7,7 @@
   "openNewNoteInNewTab": false,
   "youtubeContentTypeSlug": "youtube",
   "youtubeNoteTitle": "{{ title }}",
-  "youtubeNote": "---\ntags:\nrelated:\nstatus: not-started\n---\n\n# [{{ videoTitle }}]({{ videoURL }})\n\n{{ videoPlayer }}\n\n### Chapters\n{{ videoChapters }}\n",
+  "youtubeNote": "---\nmedia_link: {{videoURL}}\ntags:\nrelated:\nstatus: not-started\n---\n\n# [{{ videoTitle }}]({{ videoURL }})\n\n{{ videoPlayer }}\n\n### Chapters\n{{ videoChapters }}\n",
   "youtubeEmbedWidth": "560",
   "youtubeEmbedHeight": "315",
   "youtubeUsePrivacyEnhancedEmbed": true,

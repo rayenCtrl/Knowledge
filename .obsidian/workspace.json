@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "647bbca9573066ec",
+            "id": "8bca611a7ecf2d9e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "bookshelf.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "bookshelf"
             }
           }
         ],
@@ -199,18 +201,19 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "647bbca9573066ec",
+  "active": "8bca611a7ecf2d9e",
   "lastOpenFiles": [
     "home.md",
+    "bookshelf.md",
+    "Untitled",
+    "about properties.md",
+    "about DataView.md",
     "+/Books/Practical Statistics for Data Scientists - Peter Bruce Andrew Bruce Peter Gedeck.md",
     "+/Templates/book.md",
     "+/Books",
     "+/Templates/default.md",
-    "about DataView.md",
-    "about properties.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
-    "Untitled.md",
     "+/ReadItLater Inbox/Mobile App Development Course with React Native, Supabase, Next.js.md",
     "Welcome.md",
     "+/ReadItLater Inbox",
