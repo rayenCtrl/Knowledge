@@ -1,6 +1,6 @@
 
 
-# 🌐 Free Learning Resources for Python, SQL, and Machine Learning
+# 🌐 Learning Resources for Python, SQL, and Machine Learning
 
 | Resource Name     | Topics Covered              | Description                                                                 | Link                                   |
 |------------------|-----------------------------|-----------------------------------------------------------------------------|----------------------------------------|
