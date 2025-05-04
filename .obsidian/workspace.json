@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -184,14 +183,15 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "media-extended:Open media": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "home.md",
     "bookshelf.md",
     "Untitled.md",
-    "home.md",
     "+/Books/Applied Machine Learning for Data Science Practitioners - Vidya Subramanian.md",
     "+/Books/Machine Learning for Time Series Forecasting with Python - Francesca Lazzeri.md",
     "+/Books/Artificial Intelligence in Finance - Yves Hilpisch.md",
