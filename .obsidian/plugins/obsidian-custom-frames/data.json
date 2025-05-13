@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://www.notion.so/",
+      "displayName": "Notion",
+      "icon": "box",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://chatgpt.com/",
+      "displayName": "gpt",
+      "icon": "text-search",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://readwise.io/dailyreview",
+      "displayName": "Readwise Daily Review",
+      "icon": "highlighter",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".fixed-nav {\n    display: none !important;\n}",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
