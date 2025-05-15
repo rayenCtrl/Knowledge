@@ -182,11 +182,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 664.5
+    "width": 743.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +207,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4bfe1a982cb5c33f",
   "lastOpenFiles": [
     "home.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
