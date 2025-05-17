@@ -28,10 +28,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.w3schools.com/python/python_arrays.asp"
+                "url": "https://www.google.com/"
               },
               "icon": "lucide-file",
-              "title": "Python Arrays"
+              "title": "Google"
             }
           }
         ],
@@ -62,10 +62,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python"
+                "url": "https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/python"
               },
               "icon": "lucide-file",
-              "title": "Training on Sum Arrays | Codewars"
+              "title": "Training on Parse nice int from char problem | Codewars"
             }
           }
         ],
@@ -235,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 743.5,
-    "collapsed": true
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,7 +256,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "106b43900d2ae48f",
+  "active": "d046393d837f9bed",
   "lastOpenFiles": [
     "ressources.md",
     "home.md",
