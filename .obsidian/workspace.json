@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f37e82db119b6daf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd61e6dc07e253d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,10 +209,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5cd61e6dc07e253d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ressources.md",
     "home.md",
+    "ressources.md",
     "bookshelf.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Learning Journal/2025",
