@@ -48,10 +48,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/python"
+                "url": "https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/python"
               },
               "icon": "lucide-file",
-              "title": "Training on Quarter of the year | Codewars"
+              "title": "Training on Is it a palindrome? | Codewars"
             }
           }
         ]
@@ -241,7 +241,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c09fb26ab56e5ab4",
+  "active": "c0af829321029df1",
   "lastOpenFiles": [
     "ressources.md",
     "home.md",
