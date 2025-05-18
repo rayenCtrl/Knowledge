@@ -6,7 +6,7 @@
       {
         "id": "b24507c115dd9169",
         "type": "tabs",
-        "dimension": 37.96169630642955,
+        "dimension": 51.553254437869825,
         "children": [
           {
             "id": "475bddda1089095e",
@@ -23,15 +23,15 @@
             }
           },
           {
-            "id": "c09fb26ab56e5ab4",
+            "id": "3864384bd2faa374",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.w3schools.com/python/ref_func_range.asp"
+                "url": "https://www.phind.com/search/cmato8haq0000456s4timiw2q"
               },
               "icon": "lucide-file",
-              "title": "Python range() Function"
+              "title": "Phind"
             }
           }
         ],
@@ -40,7 +40,7 @@
       {
         "id": "dc485101ec981e28",
         "type": "tabs",
-        "dimension": 62.03830369357045,
+        "dimension": 48.446745562130175,
         "children": [
           {
             "id": "c0af829321029df1",
@@ -241,7 +241,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c0af829321029df1",
+  "active": "3864384bd2faa374",
   "lastOpenFiles": [
     "ressources.md",
     "home.md",
