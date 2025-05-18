@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "bookshelf"
             }
-          },
-          {
-            "id": "dca5ee5305abb381",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-notion",
-              "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +209,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dca5ee5305abb381",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "bookshelf.md",
     "home.md",
