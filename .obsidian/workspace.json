@@ -28,7 +28,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.phind.com/search/cmato8haq0000456s4timiw2q"
+                "url": "https://www.phind.com/search/cmatoinwb0001456s1m8lhdda"
               },
               "icon": "lucide-file",
               "title": "Phind"
@@ -48,7 +48,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/python"
+                "url": "https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/solutions/python"
               },
               "icon": "lucide-file",
               "title": "Training on Is it a palindrome? | Codewars"
@@ -241,7 +241,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3864384bd2faa374",
+  "active": "c0af829321029df1",
   "lastOpenFiles": [
     "ressources.md",
     "home.md",
