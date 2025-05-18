@@ -6,6 +6,7 @@
       {
         "id": "b24507c115dd9169",
         "type": "tabs",
+        "dimension": 37.96169630642955,
         "children": [
           {
             "id": "475bddda1089095e",
@@ -27,30 +28,19 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://duckduckgo.com/?q=lambda+function+in+python+list&ia=web"
+                "url": "https://www.w3schools.com/python/ref_func_range.asp"
               },
               "icon": "lucide-file",
-              "title": "lambda function in python list at DuckDuckGo"
-            }
-          },
-          {
-            "id": "eaf3a4cde4b743f6",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/"
-              },
-              "icon": "lucide-file",
-              "title": "Python Lambda Functions | GeeksforGeeks"
+              "title": "Python range() Function"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "dc485101ec981e28",
         "type": "tabs",
+        "dimension": 62.03830369357045,
         "children": [
           {
             "id": "c0af829321029df1",
@@ -58,10 +48,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/python"
+                "url": "https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/python"
               },
               "icon": "lucide-file",
-              "title": "Training on Invert values | Codewars"
+              "title": "Training on Quarter of the year | Codewars"
             }
           }
         ]
@@ -230,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 521.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +241,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eaf3a4cde4b743f6",
+  "active": "c09fb26ab56e5ab4",
   "lastOpenFiles": [
     "ressources.md",
     "home.md",
