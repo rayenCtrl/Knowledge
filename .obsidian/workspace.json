@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "bookshelf"
+            }
+          },
+          {
+            "id": "dca5ee5305abb381",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-notion",
+              "state": {},
+              "icon": "lucide-box",
+              "title": "Notion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +220,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dca5ee5305abb381",
   "lastOpenFiles": [
-    "ressources.md",
-    "home.md",
     "bookshelf.md",
+    "home.md",
+    "ressources.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Learning Journal/2025",
     "Learning Journal",
