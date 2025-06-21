@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6d8d6c34d0d8a228",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "a0cebff6687d4f01",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
-              "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "home"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -148,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of home"
             }
           },
           {
@@ -181,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 724.5
+    "width": 930.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +208,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0cebff6687d4f01",
   "lastOpenFiles": [
     "home.md",
     "bookshelf.md",
