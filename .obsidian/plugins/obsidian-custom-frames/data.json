@@ -25,15 +25,15 @@
       "customJs": ""
     },
     {
-      "url": "https://readwise.io/dailyreview",
-      "displayName": "Readwise Daily Review",
-      "icon": "highlighter",
+      "url": "https://www.phind.com/",
+      "displayName": "Phind",
+      "icon": "search",
       "hideOnMobile": true,
       "addRibbonIcon": false,
       "openInCenter": false,
       "zoomLevel": 1,
       "forceIframe": false,
-      "customCss": ".fixed-nav {\n    display: none !important;\n}",
+      "customCss": "",
       "customJs": ""
     }
   ],
