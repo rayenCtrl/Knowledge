@@ -1,5 +1,28 @@
 
+🔑 **Instead of jumping into a Master’s or CFA right now, focus 100% on getting your first international internship or junior job — that’s what will truly unlock your future.**
 
+### 📄 **Prepare Strong Application Materials**
+
+We’ll prepare:
+
+- 🧠 **Clear, focused CV** (1 page)
+    
+- 💌 **Motivation letter** for international internships
+    
+- 🌐 Optional: Personal website / GitHub cleaned and professional
+    
+
+---
+
+### 3. 🌍 **Find International Opportunities**
+
+I’ll search and suggest:
+
+- 🌐 Open **internship/junior job** positions abroad or remote
+    
+- 🎓 Programs like **AIESEC**, **ErasmusIntern**, **IAESTE**, and direct companies
+    
+- 💬 Email templates to reach out and apply
 ---
 
 ## 🎯 PRIMARY GOAL
