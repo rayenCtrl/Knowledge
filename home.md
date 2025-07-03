@@ -81,39 +81,6 @@ I’ll search and suggest:
 
 ---
 
-#### 🧩 What to Do:
-
-- ✅ Refactor GitHub repos:
-    
-    - Clear folder structure
-        
-    - Polished README + screenshots
-        
-- ✅ Create your **Portfolio page** (Notion or GitHub Pages)
-    
-- ✅ Polish:
-    
-    - CV (1 page)
-        
-    - LinkedIn with keywords
-        
-    - Personal summary in your LinkedIn bio
-        
-- ✅ Start applying:
-    
-    - 10 jobs/day
-        
-    - Apply to internships, contract, entry-level, remote, even freelance
-        
-- ✅ Prepare:
-    
-    - SQL interview questions (LeetCode / StrataScratch)
-        
-    - ML/DS questions (Glassdoor, Exponent, InterviewQuery)
-        
-
----
-
 ## 🏅 CERTIFICATIONS: Yes, but Smart Ones
 
 If you need **1 signal**, I recommend:
@@ -224,9 +191,3 @@ Your strategy of developing Python skills for finance and building projects is a
   - Join Python/finance communities
   - Participate in Kaggle competitions
   - Read financial documentation
-
-
-
-This structured approach will help you build both technical skills and a portfolio that demonstrates your capabilities to potential employers. The key is to be consistent and document your progress along the way.
-
-Would you like me to elaborate on any of these aspects or provide more specific guidance for your first project?
