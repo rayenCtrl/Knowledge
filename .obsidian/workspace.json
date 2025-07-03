@@ -16,6 +16,18 @@
               "icon": "lucide-box",
               "title": "Notion"
             }
+          },
+          {
+            "id": "5307354f583b2a33",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://developers.google.com/machine-learning/crash-course/prereqs-and-prework"
+              },
+              "icon": "lucide-file",
+              "title": "Prerequisites and prework  |  Machine Learning  |  Google for Developers"
+            }
           }
         ]
       }
@@ -180,24 +192,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "0243c4a91275702c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5307354f583b2a33",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://developers.google.com/machine-learning/crash-course/prereqs-and-prework"
-              },
-              "icon": "lucide-file",
-              "title": "Prerequisites and prework  |  Machine Learning  |  Google for Developers"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
