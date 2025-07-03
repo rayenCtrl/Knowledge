@@ -1,35 +1,6 @@
 
 🔑 **Instead of jumping into a Master’s or CFA right now, focus 100% on getting your first international internship or junior job — that’s what will truly unlock your future.**
 
-### 📄 **Prepare Strong Application Materials**
-
-We’ll prepare:
-
-- 🧠 **Clear, focused CV** (1 page)
-    
-- 💌 **Motivation letter** for international internships
-    
-- 🌐 Optional: Personal website / GitHub cleaned and professional
-    
-
----
-
-### 3. 🌍 **Find International Opportunities**
-
-I’ll search and suggest:
-
-- 🌐 Open **internship/junior job** positions abroad or remote
-    
-- 🎓 Programs like **AIESEC**, **ErasmusIntern**, **~~IAESTE~~**, and direct companies
-    
-- 💬 Email templates to reach out and apply
----
-
-## 🎯 PRIMARY GOAL
-
-**Get hired within 3 months** as a:  
-✅ **ML Engineer**, ✅ **Data Scientist**, or ✅ **Data Science/ML Intern**
-
 ---
 
 #### 📚 What to Do:
@@ -85,12 +56,12 @@ I’ll search and suggest:
 
 If you need **1 signal**, I recommend:
 
-|Certificate|Platform|Value|
-|---|---|---|
-|✅ Google Advanced Data Analytics|Coursera|Good credibility + career cert|
-|✅ IBM Data Science Certificate|Coursera|Industry recognized|
-|Optional|Kaggle Notebooks|Public reputation builder|
-|Optional|DataCamp|Practical, but less known in hiring|
+| Certificate                      | Platform         | Value                               |
+| -------------------------------- | ---------------- | ----------------------------------- |
+| ✅ Google Advanced Data Analytics | Coursera         | Good credibility + career cert      |
+| ✅ IBM Data Science Certificate   | Coursera         | Industry recognized                 |
+| Optional                         | Kaggle Notebooks | Public reputation builder           |
+| Optional                         | DataCamp         | Practical, but less known in hiring |
 
 📝 Tip: Don’t get stuck on certificates. One good cert + 2–3 solid GitHub projects is **stronger than 5 certs** with no portfolio.
 
@@ -109,21 +80,6 @@ If you need **1 signal**, I recommend:
 | Job/internship tracker created    | ⬜      |
 
 ---
-
-Your strategy of developing Python skills for finance and building projects is an excellent approach, especially given your current environment. Let me break down why this makes sense and provide specific guidance for implementation.
-
-### Why This Strategy Works
-
-1. **Immediate Value**  - Python is widely used in finance for data analysis and automation
-  - Projects demonstrate practical skills to potential employers
-  - You can start building your portfolio immediately
-
-
-2. **Career Development Benefits**  - Creates a clear path to fintech roles
-  - Builds transferable skills
-  - Demonstrates initiative and technical expertise
-
-
 
 ### Project Development Strategy
 
