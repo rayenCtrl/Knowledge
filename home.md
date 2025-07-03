@@ -20,7 +20,7 @@ I’ll search and suggest:
 
 - 🌐 Open **internship/junior job** positions abroad or remote
     
-- 🎓 Programs like **AIESEC**, **ErasmusIntern**, **IAESTE**, and direct companies
+- 🎓 Programs like **AIESEC**, **ErasmusIntern**, **~~IAESTE~~**, and direct companies
     
 - 💬 Email templates to reach out and apply
 ---

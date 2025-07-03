@@ -6,16 +6,32 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 60.10962241169305,
+        "dimension": 59.92529348986126,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "8ecfaa383d6842fa",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
-              "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "ec9e6da1df702e84",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=IAESTE&ia=web"
+              },
+              "icon": "lucide-file",
+              "title": "IAESTE at DuckDuckGo"
             }
           }
         ]
@@ -23,7 +39,7 @@
       {
         "id": "fdbc0e75c7f4bef7",
         "type": "tabs",
-        "dimension": 39.89037758830694,
+        "dimension": 40.07470651013874,
         "children": [
           {
             "id": "d548efc974f723cf",
@@ -37,18 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "ressources"
-            }
-          },
-          {
-            "id": "9604838a0915cac9",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://developers.google.com/"
-              },
-              "icon": "lucide-file",
-              "title": "Google for Developers - from AI and Cloud to Mobile and Web"
             }
           }
         ]
@@ -239,10 +243,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8ecfaa383d6842fa",
   "lastOpenFiles": [
-    "home.md",
     "ressources.md",
+    "home.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
     "Projects/Portfolio Tracker",
     "Projects",
