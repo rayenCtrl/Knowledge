@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "home"
+              "type": "custom-frames-notion",
+              "state": {},
+              "icon": "lucide-box",
+              "title": "Notion"
             }
           }
         ]
@@ -211,11 +207,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "home.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
     "bookshelf.md",
     "ressources.md",
-    "home.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
     "Projects/Portfolio Tracker",
     "Projects",
