@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6c2cb960f2720bd3",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -183,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5,
+    "width": 511.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -205,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c2cb960f2720bd3",
   "lastOpenFiles": [
     "home.md",
     "+/ReadItLater Inbox/What is Data Science.md",
