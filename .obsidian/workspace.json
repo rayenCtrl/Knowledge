@@ -23,26 +23,13 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://contacts.google.com/widget/hovercard/v/2?hl=fr&origin=https%3A%2F%2Fmail.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.EYOBbsN3I2A.O%2Fd%3D1%2Frs%3DAHpOoo_iiC5gORPbsAUenRY5t2mRSbS18A%2Fm%3D__features__#id=I__HC_94253229&_gfid=I__HC_94253229&parent=https%3A%2F%2Fmail.google.com&pfname=&rpctoken=20009308"
+                "url": "https://mail.google.com/mail/u/0/#inbox"
               },
               "icon": "lucide-file",
-              "title": "Account Creation / Création du compte - raynlazghab@gmail.com - Gmail"
-            }
-          },
-          {
-            "id": "f23481e63f5d452c",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://apply.mccallmacbainscholars.org/apply/frm?b40534c6-f2fe-4699-9b2d-97ff02e4c14a"
-              },
-              "icon": "lucide-file",
-              "title": "Start / Début"
+              "title": "Boîte de réception - raynlazghab@gmail.com - Gmail"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +217,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f23481e63f5d452c",
+  "active": "d6c2606a2707744b",
   "lastOpenFiles": [
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
