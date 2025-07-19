@@ -23,22 +23,34 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/search?q=msc+quantitative+finance+romania&sca_esv=6ae216d7b0896bf7&hl=en&sxsrf=AE3TifMMjwqeiB7imU-YeTfG4e7gRIzRmg%3A1752922340353&ei=5Hh7aN2lFfuO9u8Pz_G44Qk&oq=msc+quantitative+finance+roma&gs_lp=Egxnd3Mtd2l6LXNlcnAiHW1zYyBxdWFudGl0YXRpdmUgZmluYW5jZSByb21hKgIIADIFECEYoAEyBRAhGKABSP1kUIZTWIxYcAJ4AJABAJgBlAGgAaIEqgEDMC40uAEDyAEA-AEBmAIGoAK-BMICBxAAGLADGB7CAg4QABiABBiwAxiGAxiKBcICCxAAGIAEGLADGKIEwgIIEAAYsAMY7wXCAgUQABiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBZgDAIgGAZAGCJIHAzIuNKAHrRWyBwMwLjS4B7MEwgcFMC4yLjTIBxM&sclient=gws-wiz-serp"
+                "url": "https://www.google.com/search?q=msc+quantitative+finance+poland&sca_esv=6ae216d7b0896bf7&hl=en&sxsrf=AE3TifMW0OiHKp8yxlXzmVuF_DBnHQU1tQ%3A1752925033711&ei=aYN7aMKOK46M9u8PxPC_gAs&ved=0ahUKEwiC587P6siOAxUOhv0HHUT4D7AQ4dUDCBA&uact=5&oq=msc+quantitative+finance+poland&gs_lp=Egxnd3Mtd2l6LXNlcnAiH21zYyBxdWFudGl0YXRpdmUgZmluYW5jZSBwb2xhbmQyBRAhGJ8FSLgiUP0MWJAgcAJ4AJABAJgBmgGgAcUGqgEDMC42uAEDyAEA-AEBmAIIoALqBsICCBAAGLADGO8FwgILEAAYgAQYsAMYogTCAgUQABiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBRAhGKABwgIHECEYoAEYCpgDAIgGAZAGBZIHAzIuNqAH6hyyBwMwLja4B-QGwgcHMi4zLjIuMcgHGw&sclient=gws-wiz-serp"
               },
               "icon": "lucide-file",
-              "title": "msc quantitative finance romania - Google Search"
+              "title": "msc quantitative finance poland - Google Search"
             }
           },
           {
-            "id": "7c5bea62f0a4c0b9",
+            "id": "002e1e867917726d",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.tilburguniversity.edu/education/masters-programs/quantitative-finance-and-actuarial-science"
+                "url": "https://www.wne.uw.edu.pl/en/candidates/BA-and-MA-studies/oferta-studiow/quantitative-finance-studia-MA-studies/Required-documents"
               },
               "icon": "lucide-file",
-              "title": "Quantitative Finance and Actuarial Science | Tilburg University"
+              "title": "Required documents :: Wydział Nauk Ekonomicznych"
+            }
+          },
+          {
+            "id": "64c16996ab75e709",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://rekrutacja.uw.edu.pl/files/pdf/tuition_fees_2025-2026_06.2025.pdf"
+              },
+              "icon": "lucide-file",
+              "title": "tuition_fees_2025-2026_06.2025.pdf"
             }
           }
         ],
@@ -230,7 +242,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7c5bea62f0a4c0b9",
+  "active": "002e1e867917726d",
   "lastOpenFiles": [
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
