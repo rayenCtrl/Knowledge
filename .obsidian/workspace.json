@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "428a04a75c43a299",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d6c2606a2707744b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "home"
+              "type": "custom-frames-notion",
+              "state": {},
+              "icon": "lucide-box",
+              "title": "Notion"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -208,17 +205,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d6c2606a2707744b",
   "lastOpenFiles": [
-    "home.md",
+    "Learning Journal/2025/Week 1 – Python & Git.md",
+    "Projects/Portfolio Tracker/1 Sheet.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
-    "bookshelf.md",
+    "home.md",
     "ressources.md",
-    "Projects/Portfolio Tracker/1 Sheet.md",
+    "bookshelf.md",
+    "about properties.md",
+    "about DataView.md",
     "Projects/Portfolio Tracker",
     "Projects",
-    "Learning Journal/2025/Week 1 – Python & Git.md",
     "Learning Journal/2025",
     "Learning Journal",
     "+/Books/Applied Machine Learning for Data Science Practitioners - Vidya Subramanian.md",
@@ -235,8 +234,6 @@
     "+/Books/Practical Statistics for Data Scientists - Peter Bruce Andrew Bruce Peter Gedeck.md",
     "+/Books/Automate the Boring Stuff with Python - Al Sweigart.md",
     "+/Templates/book.md",
-    "about properties.md",
-    "about DataView.md",
     "+/Books",
     "+/Templates/default.md",
     "+/ReadItLater Inbox/Mobile App Development Course with React Native, Supabase, Next.js.md",
