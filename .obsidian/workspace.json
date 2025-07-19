@@ -23,13 +23,26 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://mail.google.com/mail/u/0/#inbox"
+                "url": "https://www.google.com/search?q=msc+quantitative+finance+france&sca_esv=6ae216d7b0896bf7&hl=en&sxsrf=AE3TifM3d4DmCIHzMKJGznCiJ6SYBEqHMQ%3A1752922151426&source=hp&ei=J3h7aNDqFriS9u8PmJuf-QY&iflsig=AOw8s4IAAAAAaHuGN0G_DbzKft5wVW6Dg0c9lLlo-E4H&oq=master+quantitative+finance+fr&gs_lp=Egdnd3Mtd2l6Ih5tYXN0ZXIgcXVhbnRpdGF0aXZlIGZpbmFuY2UgZnIqAggAMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGIAEGKIESM2sAVD5CliKngFwAXgAkAEAmAGVAaAB1Q-qAQQwLjE2uAEDyAEA-AEBmAIRoALMEKgCCsICBxAjGCcY6gLCAg0QIxjwBRgnGMkCGOoCwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGNEDGMcBwgIMECMYgAQYExgnGIoFwgIEECMYJ8ICChAjGIAEGCcYigXCAgsQABiABBiSAxiKBcICCBAAGIAEGMsBwgIOEC4YgAQY0QMYxwEYywGYAwjxBfY1BSfv4PntkgcEMS4xNqAHrYsBsgcEMC4xNrgHxBDCBwcwLjcuNC42yAdk&sclient=gws-wiz"
               },
               "icon": "lucide-file",
-              "title": "Boîte de réception - raynlazghab@gmail.com - Gmail"
+              "title": "msc quantitative finance france - Google Search"
+            }
+          },
+          {
+            "id": "ca0001b71441d8c6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-quantitative-finance#modalites"
+              },
+              "icon": "lucide-file",
+              "title": "M2 Quantitative Finance | Université Paris-Saclay"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d6c2606a2707744b",
+  "active": "ca0001b71441d8c6",
   "lastOpenFiles": [
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
