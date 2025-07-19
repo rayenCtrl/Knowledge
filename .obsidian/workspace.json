@@ -23,10 +23,34 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/search?q=msc+quantitative+finance+poland&sca_esv=6ae216d7b0896bf7&hl=en&sxsrf=AE3TifMW0OiHKp8yxlXzmVuF_DBnHQU1tQ%3A1752925033711&ei=aYN7aMKOK46M9u8PxPC_gAs&ved=0ahUKEwiC587P6siOAxUOhv0HHUT4D7AQ4dUDCBA&uact=5&oq=msc+quantitative+finance+poland&gs_lp=Egxnd3Mtd2l6LXNlcnAiH21zYyBxdWFudGl0YXRpdmUgZmluYW5jZSBwb2xhbmQyBRAhGJ8FSLgiUP0MWJAgcAJ4AJABAJgBmgGgAcUGqgEDMC42uAEDyAEA-AEBmAIIoALqBsICCBAAGLADGO8FwgILEAAYgAQYsAMYogTCAgUQABiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBRAhGKABwgIHECEYoAEYCpgDAIgGAZAGBZIHAzIuNqAH6hyyBwMwLja4B-QGwgcHMi4zLjIuMcgHGw&sclient=gws-wiz-serp"
+                "url": "https://www.google.com/search?q=msc+quantitative+finance+italy&sca_esv=6ae216d7b0896bf7&hl=en&sxsrf=AE3TifN5xAryzaZ8jK8zyHSJ8mdRclWZnQ%3A1752925104072&ei=sIN7aJ2KBLiC9u8Pq5XrUQ&ved=0ahUKEwidopXx6siOAxU4gf0HHavKOgoQ4dUDCBA&uact=5&oq=msc+quantitative+finance+italy&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm1zYyBxdWFudGl0YXRpdmUgZmluYW5jZSBpdGFseTIFECEYnwVIvBpQxg5YjRZwAngAkAEBmAG0AaABwQWqAQMwLjW4AQPIAQD4AQGYAgagAp4EwgILEAAYgAQYsAMYogTCAggQABiwAxjvBcICCxAAGIAEGJECGIoFwgIFEAAYgATCAgYQABgWGB7CAgUQIRigAZgDAIgGAZAGA5IHAzIuNKAH8xCyBwMwLjS4B5kEwgcFMC41LjHIBws&sclient=gws-wiz-serp"
               },
               "icon": "lucide-file",
-              "title": "msc quantitative finance poland - Google Search"
+              "title": "msc quantitative finance italy - Google Search"
+            }
+          },
+          {
+            "id": "244f457fa42acc12",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://corsi.unibo.it/2cycle/Qfinance/overview"
+              },
+              "icon": "lucide-file",
+              "title": "Overview — Quantitative Finance - Laurea Magistrale - Bologna"
+            }
+          },
+          {
+            "id": "e98d95368763520f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.unibo.it/en/study/enrolment-fees-and-other-procedures/degree-programmes/simultaneous-enrolment-in-different-programmes-degree-programmes-professional-masters-phds-and-specialisations"
+              },
+              "icon": "lucide-file",
+              "title": "Simultaneous enrolment in different programmes: Degree Programmes, Professional Master's, PhDs and Specialisations — University of Bologna"
             }
           },
           {
@@ -54,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
