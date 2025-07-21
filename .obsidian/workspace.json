@@ -11,14 +11,30 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "custom-frames-notion",
+              "state": {},
+              "icon": "lucide-box",
+              "title": "Notion"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2def82580fce21a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431386f0447ff3ed",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "ressources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "ressources"
             }
           }
         ]
@@ -209,13 +225,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "431386f0447ff3ed",
   "lastOpenFiles": [
+    "home.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
-    "home.md",
     "ressources.md",
     "bookshelf.md",
     "about properties.md",
