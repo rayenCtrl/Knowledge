@@ -11,30 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
-              "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2def82580fce21a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "431386f0447ff3ed",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "ressources.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ressources"
+              "title": "home"
             }
           }
         ]
@@ -94,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -197,13 +180,23 @@
               "icon": "lucide-search",
               "title": "Phind"
             }
+          },
+          {
+            "id": "88881b349f9469c0",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gmail",
+              "state": {},
+              "icon": "lucide-mail",
+              "title": "gmail"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 511.5,
+    "width": 831.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -225,17 +218,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "431386f0447ff3ed",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "home.md",
-    "Learning Journal/2025/Week 1 – Python & Git.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
-    "+/ReadItLater Inbox/What is Data Science.md",
-    "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
-    "ressources.md",
-    "bookshelf.md",
-    "about properties.md",
     "about DataView.md",
+    "bookshelf.md",
+    "+/ReadItLater Inbox/What is Data Science.md",
+    "about properties.md",
+    "ressources.md",
+    "Learning Journal/2025/Week 1 – Python & Git.md",
+    "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
     "Projects/Portfolio Tracker",
     "Projects",
     "Learning Journal/2025",
