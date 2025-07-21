@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "home"
+              "title": "New tab"
             }
           }
         ]
@@ -203,7 +199,6 @@
     "hiddenItems": {
       "obsidian-custom-frames:Open Notion": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -220,14 +215,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home.md",
-    "Projects/Portfolio Tracker/1 Sheet.md",
-    "about DataView.md",
     "bookshelf.md",
-    "+/ReadItLater Inbox/What is Data Science.md",
-    "about properties.md",
-    "ressources.md",
+    "home.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
+    "Projects/Portfolio Tracker/1 Sheet.md",
+    "101.md",
+    "about properties.md",
+    "+/ReadItLater Inbox/What is Data Science.md",
+    "ressources.md",
     "+/ReadItLater Inbox/Data Science Job Interview – Full Mock Interview.md",
     "Projects/Portfolio Tracker",
     "Projects",
