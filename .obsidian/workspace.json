@@ -189,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 831.5,
-    "collapsed": true
+    "width": 555.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +213,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4bfe1a982cb5c33f",
   "lastOpenFiles": [
     "bookshelf.md",
     "home.md",
