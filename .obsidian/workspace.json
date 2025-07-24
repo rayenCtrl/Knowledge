@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "3b7b3f9354daf3e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "71fbe5d7150de8aa",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 886.5
+    "width": 886.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +214,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "71fbe5d7150de8aa",
   "lastOpenFiles": [
     "bookshelf.md",
     "home.md",
