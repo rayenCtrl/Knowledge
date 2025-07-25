@@ -18,6 +18,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "1f1ef51c89321046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6012ff42ae4e4060",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -214,7 +229,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71fbe5d7150de8aa",
+  "active": "6012ff42ae4e4060",
   "lastOpenFiles": [
     "bookshelf.md",
     "home.md",
