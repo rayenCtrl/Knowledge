@@ -1,9 +1,10 @@
 ---
+"annotation-target:": 
 tags: 
 related: 
-author: "Marcos Lopez de Prado"
-category: "Business & Economics"
-cover: "http://books.google.com/books/content?id=oU9KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+author: Marcos Lopez de Prado
+category: Business & Economics
+cover: http://books.google.com/books/content?id=oU9KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 status: not-started
 type: book
 ---
