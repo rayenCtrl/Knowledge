@@ -16,8 +16,33 @@
               "icon": "lucide-box",
               "title": "Notion"
             }
+          },
+          {
+            "id": "b4e49218755387eb",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://masters.hkubs.hku.hk/"
+              },
+              "icon": "lucide-file",
+              "title": "HKU Business School"
+            }
+          },
+          {
+            "id": "16efe3690d9a6f11",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://msc.hkubs.hku.hk/uploads/file/202507/14eaa08437b48678585230a64936543c.pdf"
+              },
+              "icon": "lucide-file",
+              "title": "Surfing"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +238,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71fbe5d7150de8aa",
+  "active": "16efe3690d9a6f11",
   "lastOpenFiles": [
     "+/Books/Advances in Financial Machine Learning - Marcos Lopez de Prado.md",
     "bookshelf.md",
