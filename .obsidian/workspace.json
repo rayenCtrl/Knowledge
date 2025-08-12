@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.5
+    "width": 584.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +214,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4bfe1a982cb5c33f",
+  "active": "71fbe5d7150de8aa",
   "lastOpenFiles": [
     "+/Books/Advances in Financial Machine Learning - Marcos Lopez de Prado.md",
     "bookshelf.md",
