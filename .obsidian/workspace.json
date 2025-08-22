@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3b7b3f9354daf3e3",
+        "id": "832590a082e87992",
         "type": "tabs",
         "children": [
           {
-            "id": "71fbe5d7150de8aa",
+            "id": "16535c2849f0b705",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
-              "state": {},
-              "icon": "lucide-box",
-              "title": "Notion"
+              "type": "markdown",
+              "state": {
+                "file": "bookshelf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bookshelf"
+            }
+          },
+          {
+            "id": "ce47df3598bac1a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85306ae16a00cec7",
@@ -198,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-custom-frames:Open Notion": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -214,7 +231,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71fbe5d7150de8aa",
+  "active": "ce47df3598bac1a0",
   "lastOpenFiles": [
     "+/Books/Advances in Financial Machine Learning - Marcos Lopez de Prado.md",
     "bookshelf.md",
