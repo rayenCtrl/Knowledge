@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.5
+    "width": 584.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +226,7 @@
   },
   "active": "73bec24d4a90ceb4",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20250905.md",
     "Day Planners/Day Planner-20250826.md",
     "bookshelf.md",
     "Untitled.md",
@@ -257,7 +259,6 @@
     "+/Books/Statistics 101 - David Borman.md",
     "+/Books/Practical Statistics for Data Scientists - Peter Bruce Andrew Bruce Peter Gedeck.md",
     "+/Books/Automate the Boring Stuff with Python - Al Sweigart.md",
-    "+/Templates/book.md",
     "+/Books",
     "+/ReadItLater Inbox",
     "+/Templates"
