@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6825162cd7266d6",
+        "id": "42966465f9a895f9",
         "type": "tabs",
         "children": [
           {
-            "id": "73bec24d4a90ceb4",
+            "id": "6018cd7d7e07847b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -226,7 +224,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "73bec24d4a90ceb4",
+  "active": "6018cd7d7e07847b",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20250909.md",
     "Day Planners/Day Planner-20250906.md",
