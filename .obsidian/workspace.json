@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Quantitative Proficiency"
             }
-          },
-          {
-            "id": "60c6d41c179b0746",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.youtube.com/playlist?list=PLdLiRaajwSXTQcn7Me-mXHBMz0u-0oAF0"
-              },
-              "icon": "lucide-file",
-              "title": "Surfing"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +243,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60c6d41c179b0746",
+  "active": "8f8d905b86c00a2a",
   "lastOpenFiles": [
     "Quantitative Proficiency.md",
     "Untitled.md",
