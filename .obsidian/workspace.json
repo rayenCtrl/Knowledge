@@ -11,10 +11,14 @@
             "id": "6018cd7d7e07847b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20250911.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day Planner-20250911"
             }
           }
         ]
@@ -226,11 +230,12 @@
   },
   "active": "6018cd7d7e07847b",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20250905.md",
+    "Day Planners/Day Planner-20250826.md",
+    "Day Planners/Day Planner-20250911.md",
     "Day Planners/Day Planner-20250910.md",
     "Day Planners/Day Planner-20250909.md",
     "Day Planners/Day Planner-20250906.md",
-    "Day Planners/Day Planner-20250905.md",
-    "Day Planners/Day Planner-20250826.md",
     "bookshelf.md",
     "Untitled.md",
     "2025-08-26.md",
@@ -258,7 +263,6 @@
     "+/Books/Introductory Econometrics - Jeffrey Wooldridge.md",
     "+/Books/Introductory Econometrics - Richard Leighton Thomas.md",
     "+/Books/Machine Learning for Algorithmic Trading - Second Edition - Stefan Jansen.md",
-    "+/Books/Stochastic Finance with Python - Avishek Nag.md",
     "+/Books",
     "+/ReadItLater Inbox",
     "+/Templates"
