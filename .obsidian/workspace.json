@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Portfolio Tracker/1 Sheet.md",
+                "file": "bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Sheet"
+              "title": "bookshelf"
             }
           }
         ]
@@ -230,6 +230,7 @@
   },
   "active": "586195b7a79de60d",
   "lastOpenFiles": [
+    "Projects/Portfolio Tracker/1 Sheet.md",
     "101.md",
     "bookshelf.md",
     "Quantitative Proficiency.md",
@@ -251,7 +252,6 @@
     "+/Books/Advances in Financial Machine Learning - Marcos Lopez de Prado.md",
     "home.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
-    "Projects/Portfolio Tracker/1 Sheet.md",
     "about properties.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "ressources.md",
