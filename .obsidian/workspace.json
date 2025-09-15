@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e613159375a65d2",
+        "id": "88c29bad7a0286a5",
         "type": "tabs",
         "children": [
           {
-            "id": "194e09319d87b4b0",
+            "id": "586195b7a79de60d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Portfolio Tracker/1 Sheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 Sheet"
             }
           }
         ]
@@ -224,10 +228,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "194e09319d87b4b0",
+  "active": "586195b7a79de60d",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20250915.md",
+    "101.md",
+    "bookshelf.md",
     "Quantitative Proficiency.md",
+    "Day Planners/Day Planner-20250915.md",
     "Day Planners/Day Planner-20250914.md",
     "Day Planners/Day Planner-20250913.md",
     "Day Planners/Day Planner-20250912.md",
@@ -238,7 +244,6 @@
     "Day Planners/Day Planner-20250910.md",
     "Day Planners/Day Planner-20250909.md",
     "Day Planners/Day Planner-20250906.md",
-    "bookshelf.md",
     "2025-08-26.md",
     "Day Planners",
     "ML",
@@ -247,7 +252,6 @@
     "home.md",
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
-    "101.md",
     "about properties.md",
     "+/ReadItLater Inbox/What is Data Science.md",
     "ressources.md",
