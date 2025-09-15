@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88c29bad7a0286a5",
+        "id": "aa6f049e56fa17e2",
         "type": "tabs",
         "children": [
           {
-            "id": "586195b7a79de60d",
+            "id": "2bcc3ccea2a8f935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookshelf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bookshelf"
+              "title": "New tab"
             }
           }
         ]
@@ -228,11 +224,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "586195b7a79de60d",
+  "active": "2bcc3ccea2a8f935",
   "lastOpenFiles": [
+    "bookshelf.md",
     "Projects/Portfolio Tracker/1 Sheet.md",
     "101.md",
-    "bookshelf.md",
     "Quantitative Proficiency.md",
     "Day Planners/Day Planner-20250915.md",
     "Day Planners/Day Planner-20250914.md",
