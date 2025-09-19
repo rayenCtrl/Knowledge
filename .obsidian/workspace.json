@@ -11,10 +11,14 @@
             "id": "2bcc3ccea2a8f935",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Master Selection Based on Price.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Master Selection Based on Price"
             }
           }
         ]
@@ -224,9 +228,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b039eb2de0da675f",
+  "active": "2bcc3ccea2a8f935",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20250919.md",
+    "Master Selection Based on Price.md",
+    "Untitled.md",
     "Day Planners/Day Planner-20250918.md",
     "Day Planners/Day Planner-20250917.md",
     "Day Planners/Day Planner-20250916.md",
@@ -238,7 +244,6 @@
     "Day Planners/Day Planner-20250914.md",
     "Day Planners/Day Planner-20250913.md",
     "Day Planners/Day Planner-20250912.md",
-    "Untitled.md",
     "Day Planners/Day Planner-20250911.md",
     "Day Planners/Day Planner-20250905.md",
     "Day Planners/Day Planner-20250826.md",
@@ -254,7 +259,6 @@
     "Learning Journal/2025/Week 1 – Python & Git.md",
     "about properties.md",
     "+/ReadItLater Inbox/What is Data Science.md",
-    "ressources.md",
     "Projects/Portfolio Tracker",
     "Projects",
     "Learning Journal/2025",
