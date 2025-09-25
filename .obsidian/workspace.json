@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Préparation"
             }
+          },
+          {
+            "id": "4a15d4a027c45f6c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://leetcode.com/problems/two-sum/"
+              },
+              "icon": "lucide-file",
+              "title": "Two Sum - LeetCode"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +255,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ea7eadbeb0a01a12",
+  "active": "4a15d4a027c45f6c",
   "lastOpenFiles": [
-    "Master Selection Based on Price.md",
     "Préparation.md",
+    "Master Selection Based on Price.md",
     "Day Planners/Day Planner-20250925.md",
     "Day Planners/Day Planner-20250924.md",
     "Day Planners/Day Planner-20250923.md",
