@@ -27,7 +27,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://leetcode.com/problems/two-sum/"
+                "url": "https://leetcode.com/problems/two-sum/description/"
               },
               "icon": "lucide-file",
               "title": "Surfing"
@@ -255,6 +255,7 @@
   },
   "active": "4a15d4a027c45f6c",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20250926.md",
     "Préparation.md",
     "Master Selection Based on Price.md",
     "Day Planners/Day Planner-20250925.md",
@@ -280,7 +281,6 @@
     "Day Planners/Day Planner-20250905.md",
     "Day Planners/Day Planner-20250826.md",
     "Day Planners/Day Planner-20250910.md",
-    "Day Planners/Day Planner-20250909.md",
     "Day Planners",
     "ML",
     "Econometrie",
